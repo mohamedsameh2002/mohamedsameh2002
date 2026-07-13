@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- يمكنك إضافة Banner هنا لاحقًا -->
+  <!-- <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%"> -->
 </div>
 
 <h1>
@@ -91,79 +91,6 @@ Who am <a href="https://github.com/mohamedsameh2002">I</a>!
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 
-
-
-
-##########################
-
-
----
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Production EKS Platform** | Production-ready AWS EKS cluster provisioned with Terraform following Infrastructure as Code best practices. | Terraform • AWS • EKS |
-| **GitHub Actions CI/CD** | Automated CI/CD pipeline including testing, Docker image build, Amazon ECR, and Kubernetes deployment. | GitHub Actions • Docker • Kubernetes |
-| **GitOps with Argo CD** | Declarative Kubernetes deployments using GitOps principles with Argo CD. | Argo CD • Kubernetes • Helm |
-| **Monitoring Stack** | Kubernetes monitoring using Prometheus and Grafana with production-ready dashboards. | Prometheus • Grafana |
-| **Infrastructure Automation** | Infrastructure provisioning and configuration management using Terraform and Ansible. | Terraform • Ansible |
-
-> More projects are available in my repositories.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedsameh2002&show_icons=true&theme=tokyonight&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsameh2002&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohamedsameh2002&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Mohamed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedsameh2002&theme=tokyo-night)](https://github.com/mohamedsameh2002)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedsameh2002&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohamedsameh2002&style=for-the-badge" />
-
-</div>
 
 
 
