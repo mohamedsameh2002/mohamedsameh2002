@@ -9,15 +9,15 @@ Who am I!
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" align="center" />
+    <img src="https://img.icons8.com/?size=100&id=xPX4qmtKvtBp&format=png&color=000000" width="25px" align="center" />
     My CV:
     <a href="https://github.com/mohamedsameh2002">
-      <strong>goole drive </strong>
+      <strong>Google Drive</strong>
     </a>
     &
-   MY account :
-    <a href="https://github.com/mohamedsameh2002">
-      <strong>linked in </strong>
+   MY Account :
+    <a href="https://www.linkedin.com/in/mohamed-sameh-3bb25a270">
+      <strong>LinkedIn</strong>
     </a>
   </li>
 
