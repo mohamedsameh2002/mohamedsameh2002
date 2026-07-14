@@ -4,8 +4,7 @@
 </div>
 <p align="center"> (Open for Hiring)</p>
 <h1>
-Who am <a href="https://github.com/mohamedsameh2002">I</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=mohamedsameh2002" alt="Profile Views">
+Who am I!
 </h1>
 
 <ul>
@@ -44,7 +43,7 @@ Who am <a href="https://github.com/mohamedsameh2002">I</a>!
 </ul>
 
 
----
+
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 
