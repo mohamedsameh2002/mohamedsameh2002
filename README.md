@@ -1,7 +1,16 @@
 <div align="center">
-  <!-- <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%"> -->
-</div>
 
+# Hello, I'm Mohammed! 👋
+### DevOps & Cloud Engineer
+
+`Kubernetes` | `Linux` | `CI/CD`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+</div>
 <h1>
 Who am <a href="https://github.com/mohamedsameh2002">I</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=mohamedsameh2002" alt="Profile Views">
