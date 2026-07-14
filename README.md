@@ -10,9 +10,14 @@ Who am I!
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px" align="center" />
-    GitHub Profile:
+    My CV:
     <a href="https://github.com/mohamedsameh2002">
-      <strong>github.com/mohamedsameh2002</strong>
+      <strong>goole drive </strong>
+    </a>
+    &
+   MY account :
+    <a href="https://github.com/mohamedsameh2002">
+      <strong>linked in </strong>
     </a>
   </li>
 
