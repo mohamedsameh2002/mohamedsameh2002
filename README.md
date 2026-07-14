@@ -26,7 +26,7 @@ Who am I!
 
   <li>
     <img src="https://img.icons8.com/?size=100&id=houGsYyNpCbu&format=png&color=000000" width="25px" align="center" />
-    Fast learner driven by engineering curiosity, bridging the gap between development and operations while continuously adapting to new technologies.
+    Fast learner driven by engineering curiosity, bridging development and operations, adapting continuously.
   </li>
     <li>
     <img src="https://img.icons8.com/?size=100&id=xPX4qmtKvtBp&format=png&color=000000" width="25px" align="center" />
