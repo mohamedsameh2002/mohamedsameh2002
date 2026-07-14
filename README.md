@@ -8,23 +8,6 @@ Who am I!
 </h1>
 
 <ul>
-  <li>
-    <img src="https://img.icons8.com/?size=100&id=xPX4qmtKvtBp&format=png&color=000000" width="25px" align="center" />
-    My CV:
-    <a href="https://github.com/mohamedsameh2002">
-      <strong>Google Drive</strong>
-    </a>
-    &
-   MY Account :
-    <a href="https://www.linkedin.com/in/mohamed-sameh-3bb25a270">
-      <strong>LinkedIn</strong>
-    </a>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px" align="center" />
-    Feel free to reach out for collaboration or opportunities.
-  </li>
 
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px" align="center" />
@@ -44,6 +27,23 @@ Who am I!
   <li>
     <img src="https://img.icons8.com/?size=100&id=houGsYyNpCbu&format=png&color=000000" width="25px" align="center" />
     Fast learner driven by engineering curiosity, bridging the gap between development and operations while continuously adapting to new technologies.
+  </li>
+    <li>
+    <img src="https://img.icons8.com/?size=100&id=xPX4qmtKvtBp&format=png&color=000000" width="25px" align="center" />
+    My CV:
+    <a href="https://github.com/mohamedsameh2002">
+      <strong>Google Drive</strong>
+    </a>
+    &
+   MY Account :
+    <a href="https://www.linkedin.com/in/mohamed-sameh-3bb25a270">
+      <strong>LinkedIn</strong>
+    </a>
+  </li>
+
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px" align="center" />
+    Feel free to reach out for collaboration or opportunities.
   </li>
 </ul>
 
