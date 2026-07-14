@@ -43,13 +43,8 @@ Who am <a href="https://github.com/mohamedsameh2002">I</a>!
   </li>
 </ul>
 
----
 
-## 🌐 Let's Stay Connected
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedsameh2002)
-
----
 
 ## 💻 Technical Skills
 
