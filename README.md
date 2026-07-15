@@ -31,7 +31,7 @@ Who am I!
     <li>
     <img src="https://img.icons8.com/?size=100&id=xPX4qmtKvtBp&format=png&color=000000" width="25px" align="center" />
     My CV:
-    <a href="https://github.com/mohamedsameh2002">
+    <a href="https://drive.google.com/file/d/1QnBQCGz96B6fMpX9ClujxQa6dVvgqfwG/view?usp=sharing">
       <strong>Google Drive</strong>
     </a>
     &
