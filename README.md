@@ -75,6 +75,11 @@ Who am I!
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+### Foundation
+
+![Linux](https://img.shields.io/badge/Linux-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Networks](https://img.shields.io/badge/Networks-F46800?style=flat&logo=grafana&logoColor=white)
+
 ### Monitoring & Logging
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
